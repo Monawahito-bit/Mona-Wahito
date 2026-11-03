@@ -21,6 +21,8 @@ The experiment combined segmented email campaigns, actionable learning prompts a
 
 This finding informed a change to the learner engagement process: automatically enrolling learners into the recovery campaign after 8 days of inactivity rather than waiting for the existing 21-day trigger.
 
+![Learner Activation Experiment](learner-activation-experiment.png)
+
 ## 2. The Problem
 
 The self-paced learning model offered flexibility, allowing learners to progress through their courses independently.
