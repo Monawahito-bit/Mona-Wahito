@@ -28,6 +28,8 @@ To address this, I redesigned the engagement model around three pillars:
 
 The model was introduced from Cohort 9 and continued into subsequent cohorts.
 
+![Creative Tech Community Engagement Operating Model](community-engagement-operating-model.png)
+
 ## 2. The Challenge
 
 The Creative Tech community had a high volume of engagement activities, including frequent events, masterclasses, community sessions and learner support initiatives.
